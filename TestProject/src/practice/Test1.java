@@ -6,8 +6,9 @@ public class Test1 {
 		t.show();
 		t.k=100;
 		//System.out.println(t.k);
-*///		new Test().show();
-//		new Test().k=1000;
+*/
+		new Test().show();
+new Test().k=1000;
 		//System.out.println(Test().k);
 	}
 
